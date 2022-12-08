@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "55286117990",
+    "project_id": "sounekat-82fe2",
+    "storage_bucket": "sounekat-82fe2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55286117990:android:8b3178f534fcda5e229fa7",
+        "android_client_info": {
+          "package_name": "com.sounekatlogo.sounekat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "55286117990-sejm4cfnpv7cj739r0tenfss8ud80fag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArCiuW57vdJweECVlncpbyew9ovWnip1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "55286117990-sejm4cfnpv7cj739r0tenfss8ud80fag.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
